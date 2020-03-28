@@ -1,0 +1,2 @@
+# LecStudyC
+Lecture Study C
